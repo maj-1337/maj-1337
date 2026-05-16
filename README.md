@@ -40,7 +40,7 @@ Network:
 - GIAC Foundational Cybersecurity Technologies (GFACT)
 
 ## CTF's
-- Participated in the NCL's CTF more info can be found under (cyber-portfolio)
+- Participated in the NCL's CTF more info can be found under (cybersecurity-portfolio)
 
 ## Projects
 
