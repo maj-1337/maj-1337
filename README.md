@@ -1,6 +1,6 @@
 ## Hi I'm Mohamed 👋
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Cybersecurity student with a profound interest in cybersecurity and a dedication to solving complex problems.
 
 ## Objective
 
@@ -38,6 +38,9 @@ Network:
 - GIAC Certified Incident Handler (GCIH)
 - GIAC Security Essentials (GSEC)
 - GIAC Foundational Cybersecurity Technologies (GFACT)
+
+## CTFS
+- Participated in the NCL's CTF more info can be found under (cyber-portfolio)
 
 ## Projects
 
