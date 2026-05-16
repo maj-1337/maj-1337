@@ -33,13 +33,13 @@ Network:
 - Zeek
 - tshark
 
-Certifications: 
+## Certifications
 - GIAC Security Operations Certified (GSOC)
 - GIAC Certified Incident Handler (GCIH)
 - GIAC Security Essentials (GSEC)
 - GIAC Foundational Cybersecurity Technologies (GFACT)
 
-## Projects:
+## Projects
 
 Build Your Own Home Lab:
 - SANS Slingshot Virtual Machine
